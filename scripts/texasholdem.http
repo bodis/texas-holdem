@@ -1,0 +1,6 @@
+### CLIENT - Register
+GET http://127.0.0.1:10909/register
+
+
+### SERVER - Start Games
+GET http://127.0.0.1:5000/start_games
